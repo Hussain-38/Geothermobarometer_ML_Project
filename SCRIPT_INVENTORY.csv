@@ -1,0 +1,35 @@
+Script_Filename,Project_Step,Recovery_Status,Notes,SHA256
+02_calibration_formula_audit.py,Steps 02–06,RECOVERED_SUBSTANTIVE_SOURCE,31016 bytes; copied from uploaded project ZIP,97ad36f831594aee2eccc9555c50ef049c742efc73574667382d287e001dbe6b
+04_master_geothermobarometer_database.py,Steps 02–06,RECOVERED_SUBSTANTIVE_SOURCE,43188 bytes; copied from uploaded project ZIP,fb86497dcb1f4b924bb8372a1a28382b825100cac6d2c97f951ac44104c98f4e
+05B1_Hbl97_corrected_main_workbook_validation.py,Steps 02–06,RECOVERED_SUBSTANTIVE_SOURCE,21729 bytes; copied from uploaded project ZIP,c5a2a26bba04efc68f0bb63ab6cffc99fc0cf08fd53e4f23d1a77a8282446b03
+05B_Hbl97_independent_numerical_validation.py,Steps 02–06,RECOVERED_SUBSTANTIVE_SOURCE,23458 bytes; copied from uploaded project ZIP,a62b95ed49fefe01ea753b4c8af42b212055a20fbe193fb27a98876c6d24b378
+05C1_Hbl97_independent_chemical_reconstruction.py,Steps 02–06,RECOVERED_SUBSTANTIVE_SOURCE,33419 bytes; copied from uploaded project ZIP,f8535fa3b7f6c656e34a28cd2824808e2ce59468760f0b08189d58835333237f
+05C3_Hbl97_independent_iterative_verification.py,Steps 02–06,RECOVERED_SUBSTANTIVE_SOURCE,26738 bytes; copied from uploaded project ZIP,918b1b8d99b35ea9149f0694cc7479bc8951d5ce079dda6d63a49aa6865da536
+05C4_1_Hbl97_original_chemical_reconstruction.py,Steps 02–06,RECOVERED_SUBSTANTIVE_SOURCE,31516 bytes; copied from uploaded project ZIP,ae65f52b5ba84b3ffbb305d15e1425e8a04e09a434d46bfb59b0e6ca579d2998
+05C4_2_Hbl97_Fe3_Optimization_and_Normalization_Audit.py,Steps 02–06,RECOVERED_SUBSTANTIVE_SOURCE,23558 bytes; copied from uploaded project ZIP,c3903b453b755cb0e124959479e008a1c6c3d7ee2cf91469774c47561d5a7e57
+05C4_Hbl97_amphibole_formula_input_audit.py,Steps 02–06,RECOVERED_SUBSTANTIVE_SOURCE,19441 bytes; copied from uploaded project ZIP,5b55032d58fbd9383875e7f1a5cb2cd224d02899abf0b9d8544f93d284115cc7
+06_1_Hbl97_Independent_Iron_and_Normalization_Verification.py,Steps 02–06,RECOVERED_SUBSTANTIVE_SOURCE,27299 bytes; copied from uploaded project ZIP,0ba60f28997c17304574eaa48b05b8ff9b19ca5c2c601926545c66de08f0bef9
+06_2_Hbl97_Source_and_Iron_Reconciliation.py,Steps 02–06,RECOVERED_SUBSTANTIVE_SOURCE,22928 bytes; copied from uploaded project ZIP,88107839e184617f5bf26e0fc55e9776ce9bf810b583a6bb6017debb95350fa8
+06_3_1_Hbl97_Corrected_Published_Fe3_Method_Verification.py,Steps 02–06,RECOVERED_SUBSTANTIVE_SOURCE,29345 bytes; copied from uploaded project ZIP,4acc27a1fdc419b2a3699d326005771ac7d158bf7e1817590ccd0097a863aacf
+06_3_2_Hbl97_Exact_Original_Optimization_Reconstruction.py,Steps 02–06,RECOVERED_SUBSTANTIVE_SOURCE,37053 bytes; copied from uploaded project ZIP,2c51860e398add4104827fee456ff0b97b5b6e04b6ba1be352498025a57478e8
+06_3_Hbl97_Published_Fe3_Method_Independent_Verification.py,Steps 02–06,RECOVERED_SUBSTANTIVE_SOURCE,26871 bytes; copied from uploaded project ZIP,83fb86fdb8d370d4089f5f7cc8cd94e7258436635e0b80c383f528ff65377771
+06_4_Hbl97_Independent_Amphibole_Structural_Formula_Verification.py,Steps 02–06,RECOVERED_SUBSTANTIVE_SOURCE,39583 bytes; copied from uploaded project ZIP,53bec7c4b2e34126a9dc7b7e45b26d831340457c95a56d7ac72eff10cf09b211
+06_5_Hbl97_Consolidated_Scientific_Audit.py,Steps 02–06,RECOVERED_SUBSTANTIVE_SOURCE,7539 bytes; copied from uploaded project ZIP,0191e662881048c9685d94488af0e16ba2e3f76e8b847e8abe194ba52fdd64f0
+06_Hbl97_Fe3_Provenance_and_SiteTerm_Audit.py,Steps 02–06,RECOVERED_SUBSTANTIVE_SOURCE,30785 bytes; copied from uploaded project ZIP,d36ce1e772a4f4ae841bb08b438c7078033c6d7d0fd4d7895e73b5060422fa62
+03B_detailed_formula_extraction_and_mapping.py,Historical,EMPTY_TEMPLATE_STUB,92 bytes; not executable project code,
+03C1_corrected_dependency_parser.py,Historical,EMPTY_TEMPLATE_STUB,92 bytes; not executable project code,
+03C_advanced_calculation_network_reconstruction.py,Historical,EMPTY_TEMPLATE_STUB,92 bytes; not executable project code,
+03_calibration_equation_reconciliation.py,Historical,EMPTY_TEMPLATE_STUB,92 bytes; not executable project code,
+03_calibration_equation_reconciliation_FIXED.py,Historical,EMPTY_TEMPLATE_STUB,92 bytes; not executable project code,
+05A_Hbl97_scientific_calibration_verification.py,Historical,EMPTY_TEMPLATE_STUB,92 bytes; not executable project code,
+DS-Project.py,Historical,EMPTY_TEMPLATE_STUB,92 bytes; not executable project code,
+Step07_3_1_Integrated_Dataset_Finalization_and_ML_Readiness_Audit.py,Step 07.3.1,SOURCE_NOT_AVAILABLE,Execution log/output workbook discussed; source .py not in uploaded archive.,
+Step08_1_Experimental_Reference_Performance_Evaluation.py,Step 08.1,SOURCE_NOT_AVAILABLE,A 92-byte uploaded .py stub was present; no substantive code.,
+Step08_1_2_Publication_Clustered_Statistical_Validation.py,Step 08.1.2,SOURCE_NOT_AVAILABLE,Execution trace/pasted log available; full source .py not recovered.,
+Step08_1_3_Common_Publication_Sensitivity_Analysis.py,Step 08.1.3,SOURCE_NOT_AVAILABLE,Execution trace/pasted log available; full source .py not recovered.,
+Step08_2_ML_Modelling_Dataset_Construction.py,Step 08.2,SOURCE_NOT_AVAILABLE,Execution trace/pasted log available; full source .py not recovered.,
+Step08_3_Baseline_ML_Model_Development.py,Step 08.3,SOURCE_NOT_AVAILABLE,Execution trace/pasted log available; full source .py not recovered.,
+Step08_3_1_Baseline_Model_Diagnostic_and_Predictor_Contribution_Analysis.py,Step 08.3.1,SOURCE_NOT_AVAILABLE,Execution trace/pasted log available; full source .py not recovered.,
+Step08_3_ML_Experimentation.py,Step 08.3 experimentation,SOURCE_NOT_AVAILABLE,Execution trace/pasted log available; full source .py not recovered.,
+Step08_4_Linear_Regression_Geothermobarometer_Performance.py,Step 08.4,SOURCE_NOT_AVAILABLE,Execution trace and output workbook available; full source .py not recovered.,
+Step08_5_XGBoost_Geothermobarometer_Performance.py,Step 08.5,SOURCE_NOT_AVAILABLE,Execution trace/output workbook available; full source .py not recovered.,

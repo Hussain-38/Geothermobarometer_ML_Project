@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.spyproject/
+.ipynb_checkpoints/
+*.log
+data/raw/
+data/processed/
+*.xls
+*.xlsx
+*.csv
+*.pdf
+*.pptx
